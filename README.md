@@ -1,3 +1,1 @@
-##Tect text
-
-Lucky strike!!!
+Tect text
